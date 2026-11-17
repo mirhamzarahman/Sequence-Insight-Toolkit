@@ -1,0 +1,20 @@
+{
+  "name": "sequence-insight-toolkit",
+  "version": "1.0.0",
+  "description": "A JavaScript and SQL toolkit for sequence planning, identifier optimization, and event monitoring.",
+  "main": "examples/demo.js",
+  "scripts": {
+    "start": "node examples/demo.js"
+  },
+  "keywords": [
+    "javascript",
+    "sql",
+    "algorithms",
+    "greedy-sorting",
+    "frequency-analysis",
+    "event-monitoring",
+    "sequence-planning"
+  ],
+  "author": "Mir Hamza Rahman",
+  "license": "MIT"
+}
